@@ -3,13 +3,12 @@
 This is the code example for my article on
 [How to Integrate Sender with a React Form to Collect and Deliver Emails for Free](https://timonwa.com/blog/integrate-sender-with-react-form)
 
-Visit my blog, [Your Blog/Website Name](https://timonwa.com/blog), for more
+Visit my blog, [Timonwa's Notes](https://timonwa.com/blog), for more
 technical content, articles, and code snippets.
 
 ## Summary
 
-Learn how to seamlessly integrate Sender with your React app to effortlessly
-collect and deliver emails. These steps are not limited to React - they can be
+Learn how to seamlessly integrate Sender with your React app to collect and deliver emails effortlessly. These steps are not limited to React - they can be
 applied to plain HTML/JavaScript forms or any JavaScript framework, including
 Vue and Angular.
 
