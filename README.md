@@ -25,4 +25,8 @@ Vue and Angular.
 
 Please give this repo a ⭐ if you find it helpful.
 
-<!-- ![short clip or screenshot of your Sender integration](#insert_image_link_or_gif) -->
+https://github.com/Timonwa/sender-net-integration/assets/63044364/a7146963-b583-4a25-a687-5e688ac1dc43
+
+
+
+
